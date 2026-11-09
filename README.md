@@ -7,10 +7,10 @@ Abril Pérez Martínez
 Andrés Mejia Gutiérrez
 
 ## Problema
-Qué pasa hoy.
+La falta de interacción lúdica y acompañamiento emocional accesible mediante prototipos robóticos interactivos que respondan al tacto humano de forma expresiva.
 
 ## Usuario
-A quién le pasa.
+Público general, niños y entusiastas de la robótica educativa interesados en la interacción humano-robot (HRI).
 
 ## Sensa / Responde
 - Mediante un sensor táctil detectará cuando una persona toca al robot.
@@ -23,4 +23,4 @@ Impresión en 3D del cuerpo y cabeza del robot + corte láser de una caja de bas
 Hard mode
 
 ## Declaración de uso de IA
-Chat GPT
+Se utilizó ChatGPT para estructurar la redacción inicial de la documentación del README y del resumen asi como validar la sintaxis.
